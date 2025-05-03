@@ -14,10 +14,6 @@ A classic Tic-Tac-Toe game built with modern web technologies. Play against a fr
   - Clean, responsive design
   - Game state visualization
   - Score tracking
-  
-- **Smart AI Opponent**
-  - Adaptive difficulty levels
-  - Strategic decision-making
 
 - **Customization Options**
   - Choose your marker (X or O)
@@ -47,10 +43,6 @@ A classic Tic-Tac-Toe game built with modern web technologies. Play against a fr
 
 ## 🚀 Getting Started
 
-### Play Online
-
-Visit [https://ankithka.github.io/Tic-Tac-Toe/](https://ankithka.github.io/Tic-Tac-Toe/) to play the game online.
-
 ### Run Locally
 
 1. Clone the repository
@@ -65,14 +57,6 @@ Visit [https://ankithka.github.io/Tic-Tac-Toe/](https://ankithka.github.io/Tic-T
 
 3. Open `index.html` in your preferred web browser
 
-## 🧠 AI Implementation
-
-The AI opponent uses the minimax algorithm with alpha-beta pruning to make optimal decisions. The difficulty levels adjust how many moves ahead the AI will calculate:
-
-- **Easy**: Makes random moves with occasional strategic decisions
-- **Medium**: Plans 1-2 moves ahead
-- **Hard**: Uses the full minimax algorithm to play optimally
-
 ## 🔄 Future Enhancements
 
 - Online multiplayer functionality
@@ -80,6 +64,7 @@ The AI opponent uses the minimax algorithm with alpha-beta pruning to make optim
 - User accounts and global leaderboards
 - Theme customization options
 - Animation improvements
+- AI opponent
 
 ## 🤝 Contributing
 
